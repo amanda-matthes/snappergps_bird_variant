@@ -1,0 +1,35 @@
+﻿Description,Quantity,Manufacturer,Manufacturer Part Number,Supplier Number,Designator
+CAPACITOR; 0402; 16V; 10%; X7R; -55+125C,10,,,0402-100nF-16V,"C4, C8, C10, C12, C13, C14, C16, C17, C20, C23"
+CAPACITOR; 0402; 50V; 10%; X7R; -55+125C,5,,,0402-10nF-50V,"C3, C5, C6, C7, C9"
+CAPACITOR; 0402; 50V; 5%; C0G/NP0; -55+125C,1,,,0402-100pF-50V,C2
+CAPACITOR; 0402; 50V; 5%; C0G/NP0; -55+125C,1,,,0402-22pF-50V,C1
+CAPACITOR; 0402; 50V; 5%; C0G/NP0; -55+125C,2,,,0402-18pF-50V,"C21, C22"
+CAPACITOR; 0603; 25V; 10%; X5R; -55+85C,3,,,0603-1uF-25V,"C11, C19, C25, C26"
+CAPACITOR; 0603; 10V; 20%; X5R; -55+85C,3,,,0603-4.7uF-10V,"C18, C50, C51"
+CAPACITOR; 0603; 6.3V; 20%; X5R; -55+85C,1,,,0603-10uF-6.3V,C15
+FIXED IND 39NH 200MA 550MOHM SMD,1,Delta Electronics,0402HS-390EKTS,,L1
+Ferrite Bead,1,Murata,BLM15HB221SH1D,,L2
+RESISTOR; 0402; 0.0625W; 200ppm; 1%; 50V; -55+125C,2,,,0402-15R,"R11, R12"
+RESISTOR; 0402; 0.0625W; 100ppm; 1%; 50V; -55+125C,2,,,0402-1K,"R15, R16"
+RESISTOR; 0402; 0.0625W; 100ppm; 1%; 50V; -55+125C,3,,,0402-4K7,"R10, R13, R17"
+RESISTOR; 0402; 0.0625W; 100ppm; 1%; 50V; -55+125C,2,,,0402-5K1,"R7, R8"
+RESISTOR; 0402; 0.0625W; 100ppm; 1%; 50V; -55+125C,1,,,0402-6K8,R18
+RESISTOR; 0402; 0.0625W; 100ppm; 1%; 50V; -55+125C,2,,,0402-10K,"R14, R19"
+RESISTOR; 0402; 0.0625W; 100ppm; 1%; 50V; -55+125C,1,,,0402-51K,R50
+RESISTOR; 0402; 0.0625W; 100ppm; 1%; 50V; -55+125C,7,,,0402-100K,"R1, R2, R3, R4, R5, R6, R9"
+RESISTOR; 0402; 0.0625W; 100ppm; 1%; 50V; -55+125C,1,,,0402-470K,R51
+"Crystal, 20 ppm, CC7V-T1A Series",1,Jauch Quartz,"Q 0,032768-JTX310-12,5-10-T1-HMR-50K-LF",,Q2
+Yellow-Green 572nm LED Indication - Discrete 2.2V 0603,1,Rohm Semiconductor,SML-D12M1WT86,,D1
+Red 620nm LED Indication - Discrete 2.2V 0603,2,Rohm Semiconductor,SML-D12U1WT86,,"D2, D3"
+Temperature Compensated Oscillator,1,EPSON,X1G005441030112,,TCXO1
+RF Receiver,1,Skyworks Solutions Inc.,SE4150L-R,,U2
+FILTER SAW 1.575GHZ BW 42MHZ,1,Abracon LLC,AFS20A42-1575.42-T3,,SAW1
+Microcontroller,1,Silicon Labs,EFM32HG310F64G-C-QFN32R,,U1
+TVS Diode,1,Nexperia,"PRTR5V0U2AX,235",,U3
+NAND Flash,1,Winbond Electronics,W25N01GVZEIG,,IC1
+CONN UMCC JACK STR 50OHM SMD,1,TE Connectivity AMP Connectors,1909763-1,,J3
+Mosfet Array N and P-Channel 20V 2.5A 1W ,2,Rohm Semiconductor,TT8M1TR,,"Q3, Q4"
+Mosfet Array 2 P-Channel (Dual) 12V 5.5A 1.25W Surface Mount TSMT8,1,Rohm Semiconductor,QS8J13TR,,Q1
+Linear Voltage Regulator IC Positive Fixed 1 Output 100mA SOT-23-5,1,ABLIC U.S.A. Inc.,S-1318D33-M5T1U4,,U4
+"USB-C Receptacle Connector 24 Pins (16+8 Dummy), Surface Mount, Right Angle, Through Hole",1,JAE Electronics,DX07S016JA1R1500,,J1
+Charger IC Lithium Ion/Polymer SOT-23-5,1,Microchip Technology,MCP73832T-2ACI/OT,,U5
